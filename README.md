@@ -1,1 +1,1 @@
-[![Building a GIS project for the first time](https://youtube.com)](https://youtu.be/DaZ2ZUnUVEk)
+[![Building a GIS project for the first time](https://youtube.com)](https://youtu.be)
